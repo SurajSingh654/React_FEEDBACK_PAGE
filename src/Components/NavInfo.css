@@ -1,0 +1,40 @@
+.navInfo {
+  width: 85%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navInfo ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navInfo li {
+  letter-spacing: 0.2rem;
+  float: left;
+  margin: 0 5rem;
+  color: #fff;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.navSearch {
+  width: 22%;
+  height: 100%;
+  /* background-color: crimson; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navSearch input[type="text"] {
+  padding: 0.5rem;
+  border: none;
+  font-size: 1.7rem;
+}
+
+.searchIcon {
+  cursor: pointer;
+}

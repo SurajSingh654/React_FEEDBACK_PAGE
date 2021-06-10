@@ -1,0 +1,11 @@
+.Card {
+  background: linear-gradient(to right, #b45071, #6a6a88, #3b8d99);
+  width: 60%;
+  height: 80%;
+  border: 0.2rem solid black;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 11px 11px 23px 0px rgba(39, 40, 28, 0.75);
+  -webkit-box-shadow: 11px 11px 23px 0px rgba(39, 40, 28, 0.75);
+  -moz-box-shadow: 11px 11px 23px 0px rgba(39, 40, 28, 0.75);
+}
